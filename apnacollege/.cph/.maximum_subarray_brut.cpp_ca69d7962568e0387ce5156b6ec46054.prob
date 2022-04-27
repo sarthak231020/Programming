@@ -1,0 +1,1 @@
+{"name":"Local: maximum_subarray_brut","url":"c:\\Users\\GOVINDA\\CPP_Coding\\apnacollege\\maximum_subarray_brut.cpp","tests":[{"id":1621934947695,"input":"5\n-1 2 3 -4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\GOVINDA\\CPP_Coding\\apnacollege\\maximum_subarray_brut.cpp","group":"local","local":true}

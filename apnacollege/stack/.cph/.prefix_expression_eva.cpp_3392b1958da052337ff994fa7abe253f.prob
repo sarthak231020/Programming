@@ -1,0 +1,1 @@
+{"name":"Local: prefix_expression_eva","url":"c:\\Users\\GOVINDA\\CPP_Coding\\apnacollege\\stack\\prefix_expression_eva.cpp","tests":[{"id":1627716706281,"input":"43*2-","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\GOVINDA\\CPP_Coding\\apnacollege\\stack\\prefix_expression_eva.cpp","group":"local","local":true}

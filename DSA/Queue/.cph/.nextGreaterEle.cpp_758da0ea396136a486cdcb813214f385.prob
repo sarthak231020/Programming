@@ -1,0 +1,1 @@
+{"name":"Local: nextGreaterEle","url":"e:\\Programming\\CPP_Coding\\DSA\\Queue\\nextGreaterEle.cpp","tests":[{"id":1645856907630,"input":"12\n4 12 5 3 1 2 5 3 1 2 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\Queue\\nextGreaterEle.cpp","group":"local","local":true}

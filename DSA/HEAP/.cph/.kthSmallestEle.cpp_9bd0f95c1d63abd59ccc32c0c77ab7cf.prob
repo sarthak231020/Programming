@@ -1,0 +1,1 @@
+{"name":"Local: kthSmallestEle","url":"e:\\Programming\\CPP_Coding\\DSA\\HEAP\\kthSmallestEle.cpp","tests":[{"id":1647012085487,"input":"6 3 \n7 10 4 3 20 15","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\HEAP\\kthSmallestEle.cpp","group":"local","local":true}

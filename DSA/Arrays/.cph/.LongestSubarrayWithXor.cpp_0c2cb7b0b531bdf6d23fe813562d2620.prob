@@ -1,0 +1,1 @@
+{"name":"Local: LongestSubarrayWithXor","url":"e:\\Programming\\CPP_Coding\\DSA\\Arrays\\LongestSubarrayWithXor.cpp","tests":[{"id":1645763544328,"input":"5 6 \n4 2 2 6 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\Arrays\\LongestSubarrayWithXor.cpp","group":"local","local":true}

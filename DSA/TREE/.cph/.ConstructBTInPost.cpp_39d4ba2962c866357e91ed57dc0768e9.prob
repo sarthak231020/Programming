@@ -1,0 +1,1 @@
+{"name":"Local: ConstructBTInPost","url":"e:\\Programming\\CPP_Coding\\DSA\\TREE\\ConstructBTInPost.cpp","tests":[{"id":1645242007799,"input":"6\n40 20 50 10 60 30\n40 50 20 60 30 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\TREE\\ConstructBTInPost.cpp","group":"local","local":true}

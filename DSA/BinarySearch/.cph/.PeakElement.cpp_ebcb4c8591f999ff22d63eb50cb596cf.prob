@@ -1,0 +1,1 @@
+{"name":"Local: PeakElement","url":"e:\\Programming\\CPP_Coding\\DSA\\BinarySearch\\PeakElement.cpp","tests":[{"id":1648632775894,"input":"6\n0 6 8 5 7 9","output":""},{"id":1648632870760,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\BinarySearch\\PeakElement.cpp","group":"local","local":true}

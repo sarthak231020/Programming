@@ -1,0 +1,1 @@
+{"name":"Local: NMeetingInOneRoom","url":"e:\\Programming\\CPP_Coding\\DSA\\GreedyAlgorithms\\NMeetingInOneRoom.cpp","tests":[{"id":1645450798935,"input":"6\n1 0 3 5 5 7 \n2 6 4 9 7 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\GreedyAlgorithms\\NMeetingInOneRoom.cpp","group":"local","local":true}

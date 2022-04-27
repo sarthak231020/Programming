@@ -1,0 +1,1 @@
+{"name":"Local: Linear_search_algo","url":"c:\\Users\\GOVINDA\\CPP_Coding\\Linear_search\\Linear_search_algo.cpp","tests":[{"id":1623731143525,"input":"9 20 \n10 50 30 70 80 60 20 90 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\GOVINDA\\CPP_Coding\\Linear_search\\Linear_search_algo.cpp","group":"local","local":true}

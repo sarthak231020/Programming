@@ -1,0 +1,1 @@
+{"name":"Local: KClosestPointsFromOrigin","url":"e:\\Programming\\CPP_Coding\\DSA\\HEAP\\KClosestPointsFromOrigin.cpp","tests":[{"id":1647069297166,"input":"4 2\n1 3 \n-2 2 \n5 8 \n0 1 ","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\HEAP\\KClosestPointsFromOrigin.cpp","group":"local","local":true}

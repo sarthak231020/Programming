@@ -1,0 +1,1 @@
+{"name":"Local: MergeSubintervals","url":"e:\\Programming\\Cpp_Coding\\DSA\\Arrays\\MergeSubintervals.cpp","tests":[{"id":1645632277906,"input":"8 \n1 2 8 8 9 15 2 16\n3 6 10 9 11 18 4 17","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\Cpp_Coding\\DSA\\Arrays\\MergeSubintervals.cpp","group":"local","local":true}

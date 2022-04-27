@@ -1,0 +1,1 @@
+{"name":"Local: LongestConsecSeq","url":"e:\\Programming\\CPP_Coding\\DSA\\Arrays\\LongestConsecSeq.cpp","tests":[{"id":1645722487626,"input":"7\n102 4 100 1 101 3 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Programming\\CPP_Coding\\DSA\\Arrays\\LongestConsecSeq.cpp","group":"local","local":true}
